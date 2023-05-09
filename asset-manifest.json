@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Swipe-Coding-Challenge/static/css/main.bd0ad436.chunk.css",
+    "main.js": "/Swipe-Coding-Challenge/static/js/main.7c1c8a43.chunk.js",
+    "main.js.map": "/Swipe-Coding-Challenge/static/js/main.7c1c8a43.chunk.js.map",
+    "runtime-main.js": "/Swipe-Coding-Challenge/static/js/runtime-main.f62bfbfd.js",
+    "runtime-main.js.map": "/Swipe-Coding-Challenge/static/js/runtime-main.f62bfbfd.js.map",
+    "static/js/2.05900b3d.chunk.js": "/Swipe-Coding-Challenge/static/js/2.05900b3d.chunk.js",
+    "static/js/2.05900b3d.chunk.js.map": "/Swipe-Coding-Challenge/static/js/2.05900b3d.chunk.js.map",
+    "static/css/3.f26e749f.chunk.css": "/Swipe-Coding-Challenge/static/css/3.f26e749f.chunk.css",
+    "static/js/3.6f672b7d.chunk.js": "/Swipe-Coding-Challenge/static/js/3.6f672b7d.chunk.js",
+    "static/js/3.6f672b7d.chunk.js.map": "/Swipe-Coding-Challenge/static/js/3.6f672b7d.chunk.js.map",
+    "static/js/4.14966bca.chunk.js": "/Swipe-Coding-Challenge/static/js/4.14966bca.chunk.js",
+    "static/js/4.14966bca.chunk.js.map": "/Swipe-Coding-Challenge/static/js/4.14966bca.chunk.js.map",
+    "static/js/5.5ab2cddf.chunk.js": "/Swipe-Coding-Challenge/static/js/5.5ab2cddf.chunk.js",
+    "static/js/5.5ab2cddf.chunk.js.map": "/Swipe-Coding-Challenge/static/js/5.5ab2cddf.chunk.js.map",
+    "index.html": "/Swipe-Coding-Challenge/index.html",
+    "static/css/3.f26e749f.chunk.css.map": "/Swipe-Coding-Challenge/static/css/3.f26e749f.chunk.css.map",
+    "static/css/main.bd0ad436.chunk.css.map": "/Swipe-Coding-Challenge/static/css/main.bd0ad436.chunk.css.map",
+    "static/js/2.05900b3d.chunk.js.LICENSE.txt": "/Swipe-Coding-Challenge/static/js/2.05900b3d.chunk.js.LICENSE.txt",
+    "static/js/3.6f672b7d.chunk.js.LICENSE.txt": "/Swipe-Coding-Challenge/static/js/3.6f672b7d.chunk.js.LICENSE.txt",
+    "static/js/4.14966bca.chunk.js.LICENSE.txt": "/Swipe-Coding-Challenge/static/js/4.14966bca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62bfbfd.js",
+    "static/css/3.f26e749f.chunk.css",
+    "static/js/3.6f672b7d.chunk.js",
+    "static/css/main.bd0ad436.chunk.css",
+    "static/js/main.7c1c8a43.chunk.js"
+  ]
+}
